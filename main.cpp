@@ -27,5 +27,15 @@ int main()
         if ( alarmOffButton ) {
             alarmState = OFF;
         }
+
+        // if ( gasDetector || overTempDetector ) {
+        //     alarmLed = ON;
+        // }
+
+        // //alarmLed = alarmState;
+
+        // if ( alarmOffButton ) {
+        //     alarmLed = OFF;
+        //}
     }
 }
